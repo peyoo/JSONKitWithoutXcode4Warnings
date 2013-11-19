@@ -7,5 +7,5 @@ Pod::Spec.new do |s|
   s.author   = 'John Engelhart'
   s.source   = { :git => 'https://github.com/peyoo/JSONKitWithoutXcode4Warnings.git',:tag => '1.5pre'}
 
-  s.source_files   = 'JSONKit/JSONKit.{m,h}'
+  s.source_files   = 'JSONKit.{m,h}'
 end
